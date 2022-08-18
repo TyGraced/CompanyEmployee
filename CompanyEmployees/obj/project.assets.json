@@ -1553,11 +1553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectUniqueName": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
       "projectName": "CompanyEmployees",
-      "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
       "packagesPath": "C:\\Users\\adesugbaot\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\CompanyEmployees\\obj\\",
+      "outputPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\CompanyEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adesugbaot\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1574,11 +1574,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
             },
-            "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
-              "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj"
+            "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj"
             }
           }
         }

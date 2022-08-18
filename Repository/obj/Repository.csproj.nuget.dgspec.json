@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {}
+    "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\adesugbaot\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adesugbaot\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\adesugbaot\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adesugbaot\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
+    "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\adesugbaot\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adesugbaot\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,11 +162,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-                "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
               },
-              "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }

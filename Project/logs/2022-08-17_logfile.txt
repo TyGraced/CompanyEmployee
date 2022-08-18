@@ -1,0 +1,1 @@
+2022-08-17 14:33:28.4364 INFO Company with id: c9d4c053-49b6-410c-bc78-2d54a9991872 doesn't exist in the database

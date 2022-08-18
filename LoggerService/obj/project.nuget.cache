@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vRvMfliWp5wu9IZa7ywCfS+qonehbN+Wxc9tX0UaKfI1VzkxvT3i+QqJPgtThSz+/y4ExLWVm5yoQI2NRIxIPw==",
+  "dgSpecHash": "/UQ4pDc/UEAylsxjdcu1hoQrDrGqxPJkKeg1FJbroumaNlZyksPavuP4eT9FiGeHWqjIYsKPnUw046bTZVZWKQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\adesugbaot\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adesugbaot\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.0\\microsoft.data.sqlite.core.5.0.0.nupkg.sha512",
     "C:\\Users\\adesugbaot\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
